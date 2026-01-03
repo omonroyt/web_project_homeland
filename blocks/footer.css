@@ -5,17 +5,17 @@
 .footer__copyright {
   font-family: "Inter-Regular";
   font-size: 14px;
-  margin: 92px 0 24px 0;
+  margin: 7px 0 24px 0;
 }
 
 @media screen and (max-width: 1024px) {
   .footer__copyright {
-    margin: 88px 0 24px 0;
+    margin: 7px 0 24px 0;
   }
 }
 
 @media screen and (max-width: 544px) {
   .footer__copyright {
-    margin: 64px 0 24px 0;
+    margin: 7px 0 24px 0;
   }
 }
